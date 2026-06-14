@@ -43,7 +43,7 @@ Example Output:
 
 [5, 10, 15]
 
-51
+41
 
 ["Pasta", "Pizza", "Fish"]
 
